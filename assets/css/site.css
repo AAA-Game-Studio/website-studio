@@ -235,8 +235,6 @@ footer nav a:hover { color: #fff; }
 .policy ul { margin: 0 0 14px; padding-left: 22px; display: grid; gap: 6px; }
 .policy a { color: var(--red-strong); }
 .policy-note { max-width: 760px; margin: 0 auto; padding: 18px 0 0; color: var(--muted); font-size: 15px; }
-.policy-links { max-width: 760px; margin: 0 auto; padding: 0 0 8px; font-size: 15px; }
-.policy-links a { color: var(--red-strong); font-weight: 700; }
 
 .lang-note { display: none; }
 html[lang="vi"] .lang-note { display: block; }
